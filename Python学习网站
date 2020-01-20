@@ -1,0 +1,17 @@
+一、GitHub上比较好的学习项目（https://mp.weixin.qq.com/s/dGU4IuFej2_zpvsEPHK3bw）
+  1、https://github.com/521xueweihan/HelloGitHub
+  这是一个面向编程新手、热爱编程、对开源社区感兴趣人群的项目，内容包括：流行项目、入门级项目、让生活变得更美好的工具、书籍、学习心得笔记、企业级项目等，这些开源项目大多都是非常容易上手、很Cool，能够让你用很短时间感受到编程的魅力和便捷。从而让大家感受到编程的乐趣，动手开始编程。
+  2、https://github.com/home-assistant/home-assistant
+  Home Assistant是一个运行在Python 3上的家庭自动化平台。可以连接各种家庭智能设备——灯、开关、门、风扇、响铃、温湿度计、音响、安防监控设备、智能电表等等，将它们纳入智能系统，集中控制设备并追踪它们的状态，并让它们互相联系。这使得用户可以在单个界面上控制各个不同厂家的不同智能设备，而不是通过不同app或其他接口，也为家庭自动化提供了巨大的可能性。
+  3、https://github.com/wangzheng0822/algo
+  数据结构和算法必知必会的50个代码实现
+  4、https://github.com/testerSunshine/12306
+  12306这个项目基本上是紧随着12306网站的功能更新而更新的，支持12306的所有基本功能，作者的设计思路也是很简单：
+  5、https://github.com/eriklindernoren/ML-From-Scratch
+  本项目教你从头开始机器学习。简单介绍NumPy实现的机器学习模型和算法，重点是可访问性。从线性回归到深度学习的一切都涵盖了。
+  6、https://github.com/donnemartin/system-design-primer
+  该项目是关于如何设计大型系统，以及如何应对系统设计面试。系统设计是一个很宽泛的话题。在互联网上，关于系统设计原则的资源也是多如牛毛。这个仓库就是这些资源的组织收集，它可以帮助你学习如何构建可扩展的系统。
+  7、https://github.com/rg3/youtube-dl
+  youtube-dl是一个用来从YouTube.com网站上下载视频文件的命令行工具。它采用Python开发，运行时需要Python的解释环境。支持多个OS平台，支持众多视频网站(见附图)国内优酷、土豆、新浪和搜狐，国外YouTube等赫然在列。
+  8、https://github.com/soimort/you-get
+  You-Get是一款命令行下载工具，支持众多视频网站，包含41家国内主流视频、音乐网站，如 优酷土豆、爱奇艺、腾讯视频、芒果TV 、网易云音乐等等，只需输入命令，键入视频地址即可一键下载视频。
