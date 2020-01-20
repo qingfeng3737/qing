@@ -1,0 +1,4 @@
+一、问题：python3----如何简单地理解Python中的if __name__ == '__main__'
+   答：if __name__ == '__main__'的意思是：当.py文件被直接运行时，if __name__ == '__main__'之下的代码块将被运行；当.py文件以模块形式被导入时，if __name__ == '__main__'之下的代码块不被运行。
+   参考文档：https://www.cnblogs.com/loved/p/8706354.html     https://www.cnblogs.com/chenhuabin/p/10118199.html
+二、问题：
